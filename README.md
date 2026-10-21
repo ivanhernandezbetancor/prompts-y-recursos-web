@@ -58,6 +58,11 @@ Recomiéndame e integra en el proyecto las mejores librerías de código abierto
 - Escribe el código práctico (HTML/CSS/JS o React/Tailwind según corresponda) de una sección clave (por ejemplo, la Hero Section o una Galería Interactiva de Proyectos/Causas) integrando activamente esas librerías y sus animaciones.
 
 Comienza proponiendo el código de la primera sección animada integrando las librerías correspondientes.
+```
+
+</details>
+
+---
 
 ## 📚 2. Repertorio Definitivo de Librerías Frontend por Categorías
 
@@ -121,7 +126,6 @@ Comienza proponiendo el código de la primera sección animada integrando las li
 - **Kursor.js** — [GitHub](https://github.com/Luissanc/kursor) · [Web](https://kursor.js.org)  
   *(Sustituye el cursor nativo por uno personalizado y animado que reacciona a los elementos clickables)*
 
----
 
 ### G. 🧩 Componentes UI, Iconos y Estilos
 - **shadcn/ui** — [GitHub](https://github.com/shadcn-ui/ui) · [Web](https://ui.shadcn.com)  
