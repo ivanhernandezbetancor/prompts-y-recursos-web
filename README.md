@@ -24,7 +24,7 @@
 
 ## 📌 Descripción
 
-Este documento reúne las instrucciones avanzadas (**Prompts Maestros para IA**) y la colección más completa de repositorios en GitHub para desarrollar sitios web y portafolios interactivos, inmersivos y de alto rendimiento centrados en el ámbito animalista.
+Este documento reúne las instrucciones avanzadas y la colección más completa de repositorios en GitHub para desarrollar sitios web y portafolios interactivos, inmersivos y de alto rendimiento centrados en proyectos con propósito y causa animalista.
 
 ---
 
@@ -33,7 +33,7 @@ Este documento reúne las instrucciones avanzadas (**Prompts Maestros para IA**)
 <details>
 <summary><b>🤖 Opción A: Integración de Librerías y Recursos de GitHub</b></summary>
 
-> *Usa este prompt si quieres que la IA te sugiera código directo e integre librerías de código abierto dentro de tu proyecto.*
+Usa este prompt si quieres que la IA te sugiera código directo e integre librerías de código abierto dentro de tu proyecto:
 
 ```text
 Actúa como un Desarrollador Web Senior y Diseñador UI/UX experto. Yo soy diseñador web, apasionado por la causa animalista y especialista en animación. 
